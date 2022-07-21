@@ -1,2 +1,2 @@
 # Statistical-Machine-Learning3
-Python code for the statistical machine learning course: lectures' examples
+Python code for the statistical machine learning course: tutorials' materials
